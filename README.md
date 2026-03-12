@@ -1,2 +1,3 @@
-# -python-learning-note
-learning note for each chapter，aiming 同
+[# -python-learning-note
+对“鱼书”的简单总结，
+](https://github.com/wangyansong22/-python-learning-note/edit/main/README.md)
