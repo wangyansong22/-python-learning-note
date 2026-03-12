@@ -1,4 +1,5 @@
-# 鱼书学习笔记
+<img width="946" height="1259" alt="image" src="https://github.com/user-attachments/assets/53eab962-f695-4ed0-9874-a5b0d5489f79" /># <img width="946" height="1259" alt="image" src="https://github.com/user-attachments/assets/ee925378-1051-413e-b526-8d68b8eb7d99" />
+鱼书学习笔记
 
 这是我在自学 PyTorch 和深度学习基础过程中整理的一套《**深度学习入门：基于 Python 的理论与实现**》学习笔记仓库。
 
